@@ -1,2 +1,0 @@
-# NeoChGK
-ChGK game
